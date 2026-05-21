@@ -345,3 +345,8 @@ cython_debug/
 *.egg-info
 
 
+my_code/gpt2-medium355M-sft.pth
+my_code/gpt2/355M/model.ckpt.data-00000-of-00001
+my_code/gpt2/355M/model.ckpt.meta
+my_code/gpt2/355M/model.ckpt.index
+my_code/gpt2/355M/checkpoint
